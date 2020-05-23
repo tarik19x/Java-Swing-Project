@@ -16,7 +16,7 @@ public class GamePanel extends JPanel
 	public static final int WIDTH = 600;
 	public static final int HEIGHT = 303;
 	public static final int SCALE = 2;
-	//public static final int SCALE2 = ;
+	
 	
 	// game thread
 	private Thread thread;
